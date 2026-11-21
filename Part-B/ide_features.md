@@ -2,34 +2,20 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+This was my first time creating and running a Python program in an IDE, and overall the experience was easier than I expected. Having everything in one place made it simpler to write code, test it, and make corrections when I found mistakes. While working on this assignment, I noticed several features that helped me understand what I was doing and made the coding process less intimidating. The three features that stood out the most were syntax highlighting, error detection, and the integrated terminal. These tools helped me work more efficiently and gave me confidence while learning the basics of programming.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Syntax Highlighting
 
-## Feature 1 – TODO: Replace with name of your Feature1
+One feature I liked was syntax highlighting. VS Code uses different colors for keywords, strings, functions, and other parts of the code. This made it easier to see the structure of my program and understand what each line was doing. When I was writing the code to ask the user for their name and age, the color coding helped me quickly spot parts of the program and made the code easier to read. It may seem like a small feature, but it helped me stay organized and avoid simple mistakes.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Error Detection
 
-TODO: Replace with your Feature 1 paragraph here.
+Another helpful feature was error detection. As I typed, VS Code would underline potential problems or alert me when something wasn't written correctly. This was useful because I am still learning Python syntax and occasionally make typing mistakes. Instead of running the program and trying to figure out why it wasn't working, I could often spot and fix the issue right away. This saved time and helped me better understand the rules of the Python language.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Integrated Terminal
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
+The integrated terminal was probably the feature I used the most during this assignment. It allowed me to run my program directly inside VS Code without needing to open a separate window. Whenever I made a change, I could quickly run the program again and test the results. For example, after writing the calculation for the user's birth year, I used the terminal several times to make sure the output was correct. Having the terminal built into the IDE made testing faster and more convenient.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+This assignment gave me a better understanding of how an IDE can help programmers write and test code. Features such as syntax highlighting, error detection, and the integrated terminal made the process much easier than I expected. As I continue learning Python, I think these tools will help me become more comfortable with programming and make it easier to find and fix mistakes on my own.
